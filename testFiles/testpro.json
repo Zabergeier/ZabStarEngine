@@ -1,0 +1,68 @@
+{
+    "ImageButton":{
+        "Properties":{
+            "Appearance":{
+                "SelectionImageObject":"Image"
+                
+
+            },
+
+            "Data":{
+                "Archivable":"bool",
+                "Activ":"bool",
+                "AnchorPoint":"Udim",
+                "AutoButtonColor":"bool",
+                "AutomaticSize":"Enum",
+                "BackgroundColor3":"Color3",
+                "BackgroundTransparency":"01",
+                "BorderColor3":"Color3",
+                "BorderMode":"Enum",
+                "BorderSizePixel":"int",
+                "Interactable":"bool",
+                "LayoutOrder":"int",
+                "Modal":"bool",
+                "Name":"string",
+                "Parent":"Instance",
+                "Position":"Udim2",
+                "Rotation":"deg",
+                "Size":"Udim2",
+                "SizeConstant":"Enum",
+                "Style":"Enum",
+                "Visible":"bool",
+                "ZIndex":"int"
+                
+
+
+            },
+        
+            "Behavior":{
+                "ClipDesendants":"bool"
+            },
+            "Image":{
+                "HoverImage":"Image",
+                "Image":"Image",
+                "ImageColor3":"Color3",
+                "ImageRectOffset":"Udim",
+                "ImagetRectSize":"Udim",
+                "ImageTransparency":"01",
+                "isLoaded":"bool",
+                "PressedImage":"Image",
+                "ResampleMode":"Enum",
+                "ScaleType":"Stretch"
+            },
+            "Localisation":{
+                "AutoLocalize":"bool",
+                "RootLocalisationTable":"table"
+
+            }
+
+
+
+        }
+
+
+              
+
+    }
+
+}
