@@ -3,7 +3,7 @@
     "Data":{
         "ProEve":"https://zabergeier.github.io/ZabStarEngine/Components/StandartComponents/PropertiesAndEvents.json",
         "Scripte":{
-            "Button":""
+            "Button":"https://zabergeier.github.io/ZabStarEngine/Components/StandartComponents//Scripts/Button.lua"
         }
     }
         
