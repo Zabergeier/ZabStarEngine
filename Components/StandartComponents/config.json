@@ -1,7 +1,7 @@
 {
     "Name":"StandartComponents",
     "Data":{
-        "ProEve":"",
+        "ProEve":"https://zabergeier.github.io/ZabStarEngine/Components/StandartComponents/PropertiesAndEvents.json",
         "Scripte":{
             "Button":""
         }
