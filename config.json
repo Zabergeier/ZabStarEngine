@@ -1,3 +1,5 @@
 {
-  ""
+  "levels":[
+    "https://zabergeier.github.io/ZabStarEngine/Components/StandartComponents/config.json"
+  ]
 }
